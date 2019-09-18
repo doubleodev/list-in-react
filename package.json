@@ -1,0 +1,31 @@
+{
+  "name": "flexible-list",
+  "version": "1.0.0",
+  "description": "Demonstrating css flexbox in a React app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leptichaun72/flexible-list.git"
+  },
+  "keywords": [
+    "flex",
+    "list",
+    "react",
+    "test"
+  ],
+  "author": "Steven",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leptichaun72/flexible-list/issues"
+  },
+  "homepage": "https://github.com/leptichaun72/flexible-list#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "hapi": "^17.8.1",
+    "inert": "^5.1.2"
+  }
+}
